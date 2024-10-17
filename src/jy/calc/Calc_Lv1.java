@@ -1,3 +1,5 @@
+package jy.calc;
+
 import java.util.Scanner;
 
 public class Calc_Lv1 {
